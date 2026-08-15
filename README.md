@@ -14,7 +14,7 @@ The app focuses on simple, offline usage with all data stored locally in JSON fo
 - Track levels or progress per activity
 - Add notes for each activity
 - Tablet-friendly UI
-- Offline (no internet connection required)
+- Offline
 
 ---
 
@@ -28,8 +28,7 @@ The app focuses on simple, offline usage with all data stored locally in JSON fo
 
 ## 📱 Target Platform
 
-- Android tablets  
-(Not yet tested on a wide range of devices.)
+- Android tablets
 
 ---
 
@@ -39,14 +38,14 @@ The app focuses on simple, offline usage with all data stored locally in JSON fo
 
 - Unity Hub
 - Unity **6.3 LTS**
-- Android Build Support (installed via Unity Hub)
-- Android SDK & NDK (via Unity Hub)
+- Android Build Support
+- Android SDK & NDK
 
 ### Setup
 
 1. Clone this repository
 2. Open the project in Unity Hub
-3. Load the main scene (if not loaded automatically)
+3. Load the main scene
 
 ---
 
